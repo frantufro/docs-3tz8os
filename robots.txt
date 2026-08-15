@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-dlms21.planetjp.online/sitemap.xml
